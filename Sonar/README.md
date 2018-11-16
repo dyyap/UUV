@@ -2,6 +2,10 @@
 
 Gordon Keil
 
+Jared Nakamoto
+ 
+Wilson Thai
+
 ## Jobs for the Big Sonar Team (Eduardo)
 
 1. Download the DeltaT Sonar Code from the UUV Drive
