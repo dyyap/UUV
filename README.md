@@ -11,12 +11,12 @@ Under each folder are the different tasks that we need for the Sub to function t
   
 ## Sub Teams
 
-Motors 
+Motors: Daniel Yap, Ruth Nuttall
 
-Sonar (Eduardo)
+Sonar (Eduardo): Gordon Keil, Jared Nakamoto,  Wilson Thai
 
-Little Sonars (Eddie)
+Little Sonars (Eddie): Jeremy Becker
 
 ### Upcoming tasks
 
-Gps
+Gps: Whoever is done
