@@ -1,0 +1,3 @@
+/home/ngcp-uuv/Desktop/c_uart_interface_exampleOPENCV/CMakeFiles/rebuild_cache.dir
+/home/ngcp-uuv/Desktop/c_uart_interface_exampleOPENCV/CMakeFiles/mavlinkControl.dir
+/home/ngcp-uuv/Desktop/c_uart_interface_exampleOPENCV/CMakeFiles/edit_cache.dir
