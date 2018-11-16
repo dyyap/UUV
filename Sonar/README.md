@@ -1,10 +1,10 @@
 # Sonar 
 
-Gordon Keil
+-Gordon Keil
 
-Jared Nakamoto
+-Jared Nakamoto
  
-Wilson Thai
+-Wilson Thai
 
 ## Jobs for the Big Sonar Team (Eduardo)
 
