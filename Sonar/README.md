@@ -1,5 +1,7 @@
 # Sonar 
 
+Gordon Keil
+
 ## Jobs for the Big Sonar Team (Eduardo)
 
 1. Download the DeltaT Sonar Code from the UUV Drive
