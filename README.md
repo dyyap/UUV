@@ -13,7 +13,7 @@ Under each folder are the different tasks that we need for the Sub to function t
 
 Motors: Daniel Yap, Ruth Nuttall
 
-Sonar (Eduardo): Gordon Keil, Jared Nakamoto,  Wilson Thai
+Sonar (Eduardo): Gordon Keil, Jarod Nakamoto,  Wilson Thai, Joshua Fernandes
 
 Little Sonars (Eddie): Jeremy Becker
 
