@@ -2,9 +2,11 @@
 
 -Gordon Keil
 
--Jared Nakamoto
+-Jarod Nakamoto
  
 -Wilson Thai
+
+-Joshua Fernandes
 
 ## Jobs for the Big Sonar Team (Eduardo)
 
