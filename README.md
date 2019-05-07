@@ -24,6 +24,6 @@ Any files that I can put publicly I will put on this github, if not it will be o
 
 [ArduPilot](http://ardupilot.org/dev/docs/building-setup-windows10.html)
 
-[QGrounControl](http://qgroundcontrol.com/)
+[QGroundControl](http://qgroundcontrol.com/)
 
 [MissionPlanner](http://ardupilot.org/planner/)
