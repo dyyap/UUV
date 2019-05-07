@@ -8,15 +8,9 @@ Under each folder are the different tasks that we need for the Sub to function t
   A quick start guide on how to start the motors on the sub in case one would want to get started
   
   Documents that last years team made
-  
-## Sub Teams
 
-Motors: Daniel Yap, Ruth Nuttall
+## Where to go ##
 
-Sonar (Eduardo): Gordon Keil, Jarod Nakamoto,  Wilson Thai, Joshua Fernandes
+There is a gitbook detailing essentially everything 
 
-Little Sonars (Eddie): Jeremy Becker
-
-### Upcoming tasks
-
-Gps: Whoever is done
+[NGCP-UUV Guide](https://ngcp-uuv.gitbook.io/ngcp-uuv-guide)
